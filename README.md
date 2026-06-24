@@ -1,129 +1,99 @@
-# Hi there, I'm Santhosh Kumar P 👋
+<div align="center">
 
-🎓 MCA Candidate at SRM Institute of Science and Technology, Ramapuram
-💡 Passionate about Data Analytics, Artificial Intelligence, Machine Learning, and Software Development
-🚀 Building intelligent applications, extracting insights from data, and solving real-world problems through technology.
+# Hi 👋, I'm Santhosh Kumar P
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00D9FF&center=true&vCenter=true&width=700&lines=MCA+Student+%7C+Data+Analyst;AI%2FML+Enthusiast;Python+Developer+%7C+Java+Programmer;Building+Intelligent+Solutions" />
 
-## 👨‍💻 About Me
+### 🚀 Data Analyst | AI/ML Enthusiast | Software Developer
 
-I am an aspiring Data Analyst and AI Engineer with a strong foundation in Python, Java, SQL, and modern data technologies. My interests lie in transforming raw data into meaningful insights, developing AI-powered applications, and creating scalable software solutions.
+<p>
+Transforming raw data into meaningful insights and building intelligent applications through AI, analytics, and modern software technologies.
+</p>
 
-Currently, I am exploring:
-
-* 📊 Data Analytics & Business Intelligence
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Natural Language Processing (NLP)
-* 🌐 Full-Stack Development
-* ☁️ Cloud & Generative AI Technologies
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-### Programming Languages
+* 🎓 MCA Student at SRM Institute of Science and Technology, Ramapuram
+* 📊 Passionate about Data Analytics & Business Intelligence
+* 🤖 Exploring Artificial Intelligence, NLP & Machine Learning
+* 💻 Building Python, Java, and Web-based applications
+* 🌱 Currently learning advanced AI, cloud technologies, and scalable systems
 
-* Java
-* Python
-* SQL
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Data Analytics & AI
 
-* Pandas
-* NumPy
-* Matplotlib
-* Power BI
-* Sentence Transformers
-* Exploratory Data Analysis (EDA)
-* Data Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
-### Web Development
+### Development Tools
 
-* HTML
-* CSS
-* JavaScript
-* Streamlit
-
-### Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* Eclipse
-* MySQL
-* REST APIs
-* OOP
-* Data Structures
-* SDLC
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 🤖 AI Resume Analyzer
 
-An AI-powered ATS scoring and job matching system that uses NLP and Sentence Transformers to evaluate resumes based on semantic similarity and keyword relevance.
-
-**Technologies:** Python, Streamlit, NLP, Sentence Transformers
-
----
+AI-powered ATS scoring and job matching system using NLP and semantic similarity.
 
 ### 📊 E-Commerce Sales & Customer Insights Analysis
 
-Performed analysis on 100K+ e-commerce transactions to identify customer purchasing behavior, sales trends, payment patterns, and delivery performance. Developed interactive dashboards and generated business insights.
-
-**Technologies:** Python, Pandas, Matplotlib, Power BI
-
----
+Performed EDA on 100K+ transactions, generated customer insights, and created Power BI dashboards.
 
 ### ♟️ Tic-Tac-Toe AI
 
-Developed an intelligent Tic-Tac-Toe game using the Minimax algorithm with a Java Swing graphical interface.
-
-**Technologies:** Java, Java Swing, OOP
+Implemented the Minimax algorithm with Java Swing GUI for optimal gameplay.
 
 ---
 
-## 💼 Virtual Experience
+## 📈 GitHub Analytics
 
-### Deloitte Data Analytics Virtual Internship
+<div align="center">
 
-* Performed data cleaning and preprocessing
-* Conducted forensic data analysis
-* Generated insights for simulated business scenarios
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santhoshkumar652005&show_icons=true&theme=tokyonight"/>
 
-### JPMorgan Chase Software Engineering Virtual Experience
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Santhoshkumar652005&theme=tokyonight"/>
 
-* Solved software engineering challenges
-* Worked on debugging and optimization tasks
-* Applied software development best practices
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshkumar652005&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 🏆 Certifications
 
-* Google Cloud Skills Boost – Generative AI Learning Path
-
-  * Generative AI, LLMs, Responsible AI, Prompt Engineering
-
-* Microsoft Learn – AI in Azure Learning Path
-
-  * Azure AI Foundry, AI Agents, Language AI, Speech AI
+* ☁️ Google Cloud Generative AI Learning Path
+* 🤖 Microsoft Azure AI Learning Path
 
 ---
 
-## 📈 Current Goals
+## 📫 Connect With Me
 
-* Building industry-level Data Analytics and AI projects
-* Improving problem-solving and software engineering skills
-* Contributing to open-source projects
-* Exploring advanced Machine Learning and Cloud AI services
+📧 Email: **[santhoshkumar652005@gmail.com](mailto:santhoshkumar652005@gmail.com)**
+
+💻 GitHub: **github.com/Santhoshkumar652005**
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
 
-📧 Email: [santhoshkumar652005@gmail.com](mailto:santhoshkumar652005@gmail.com)
-💻 GitHub: github.com/Santhoshkumar652005
+### ⭐ "Turning Data Into Insights, and Ideas Into Intelligent Solutions"
 
-⭐ "Transforming data into insights and ideas into intelligent solutions."
+</div>
